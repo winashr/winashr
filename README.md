@@ -52,7 +52,6 @@
 ---
 
 ### 📊 GitHub Stats  
-🔥 *Because stats matter, right?*  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winashr&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winashr&layout=compact&theme=tokyonight)  
 
@@ -65,7 +64,8 @@
 ---
 
 ### 📡 Connect & Collaborate  
-📩 DM me on **LinkedIn** & let's talk CyberSec:  
+📩 DM me on **LinkedIn** & let's talk :  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinrajavel/)  
 
 
