@@ -1,6 +1,6 @@
 ### Hi there, I'm Winashr! 👋
 
-![Banner](https://source.unsplash.com/1600x400/?hacker,technology)
+![Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZ4XWynsVgKvqI7dbwXivTDZrpNl83MosuGDyu3adFswUi7kbhlWFaozZC3eTRZjF_SoFLtx2KhcOOpvhGthgtWMIodyM3ZTtBnybCV6mV48S_f-VM8Z9OWwO42xRxQlOVYbgqckDzvfXeLkIS5OThfyV5QoQv4s7vatIrngve1wTW4_SBvD7f0aNWCk/s1920/F1181c.940975098e$1dda93570735c5%20(2).jpg)
 
 💻 **BTS SIO SLAM Student | Passionate about Pentesting & Cybersecurity**
 
