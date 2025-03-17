@@ -3,9 +3,6 @@
 💻 **BTS SIO SLAM Student | Passionate about Cybersecurity & Pentesting**  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&pause=1000&color=6B2191&width=435&lines=Ashwin%2C+Developer+%26+Future+Pentester)](https://git.io/typing-svg)
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
-</div>  
 
 ---
 
