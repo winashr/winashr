@@ -16,8 +16,6 @@
 🔹 **Containerized Environments** | **Docker, MySQL, Linux**  
 🔹 **Always Learning** | Hacking challenges, CTFs, and deep-diving into vulnerabilities.
 
-💀
-
 ---
 
 ### ⚡ Various Skills
