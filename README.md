@@ -10,8 +10,7 @@
 - 🛡️ Aspiring **Ethical Hacker** & Cybersecurity Enthusiast
 - 🖥️ Coding in **Java, PHP, Python** & working with **MySQL, Docker**
 - 🔍 Love exploring **penetration testing** techniques
-- 🎮 Playing **League of Legends** as Support
-- 📡 Familiar with **Wireshark & network security tools**
+- 📡 Familiar with **Wireshark & network security tools and Kali Linux**
 
 ---
 
@@ -38,6 +37,5 @@
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinrajavel/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/winashr)
 
-Let's connect and collaborate on cybersecurity projects! 🔒
+Let's connect and collaborate on cybersecurity projects and also pentesting projects ! 🔒
