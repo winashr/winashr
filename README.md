@@ -1,4 +1,4 @@
-### Hi there, I'm Winashr! 👋
+### Hi there, I'm Ashwin👋
 
 💻 **BTS SIO SLAM Student | Passionate about Pentesting & Cybersecurity**
 
