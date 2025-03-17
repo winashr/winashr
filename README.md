@@ -1,6 +1,5 @@
 ### Hi there, I'm Winashr! 👋
 
-![Banner](https://www.sns-security.fr/wp-content/uploads/2025/02/visuel-webinar-pentest-red-team-11032025-_banniere-article-blog-scaled.jpg)
 💻 **BTS SIO SLAM Student | Passionate about Pentesting & Cybersecurity**
 
 ---
