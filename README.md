@@ -11,22 +11,25 @@
 
 ### 🚀 About Me  
 🔹 **Aspiring Ethical Hacker** | Obsessed with breaking (and securing) systems  
-🔹 **Developer & Security Enthusiast** | Code in **Java, PHP, Python**  
-🔹 **Network & Web Security** | Hands-on with **Wireshark, Burp Suite, Kali Linux**  
-🔹 **Containerized Environments** | **Docker, MySQL, Linux Administration**  
-🔹 **Always Learning** | Hacking challenges, CTFs, and deep-diving into vulnerabilities  
+🔹 **Developer & Security Enthusiast** | Code in **Java, PHP, Python,JavaScript**  
+🔹 **Network & Web Security** | Hands-on with **Wireshark, TCPEye, Kali Linux**  
+🔹 **Containerized Environments** | **Docker, MySQL, Linux**  
+🔹 **Always Learning** | Hacking challenges, CTFs, and deep-diving into vulnerabilities.
 
-💀 *“Hack the Planet” – but ethically, of course.*  
+💀
 
 ---
 
-### ⚡ Tech Arsenal  
+### ⚡ Various Skills
 <details>
   <summary>🛠️ Programming & Scripting</summary>
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 </details>
 
 <details>
@@ -36,7 +39,6 @@
   ![TCPEye](https://img.shields.io/badge/TCPEye-9B8B26?style=for-the-badge&logo=generic&logoColor=white)  
   ![Telnet](https://img.shields.io/badge/Telnet-2A4B8A?style=for-the-badge&logo=generic&logoColor=white)  
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F26722?style=for-the-badge&logo=burpsuite&logoColor=white)  
 </details>
 
 <details>
@@ -57,16 +59,13 @@
 ---
 
 ### 🏴‍☠️ Projects & Cybersecurity Contributions  
-🚧 **Work in Progress...** *(Stay tuned for some badass security tools, exploits & automation scripts!)*  
+🚧 **Work in Progress...** *(Stay tuned for some security tools, exploits & automation scripts !)*  
 💣 **Upcoming:** Custom **Pentesting Toolkits**, **CTF Writeups**, and **Exploit PoCs**  
 
 ---
 
 ### 📡 Connect & Collaborate  
-👾 Got a cool **hacking** or **security** project? Let’s break things (responsibly) together!  
 📩 DM me on **LinkedIn** & let's talk CyberSec:  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinrajavel/)  
 
-🚀 *Hack. Learn. Secure.*  
 
