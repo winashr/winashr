@@ -10,15 +10,15 @@
 ---
 
 ### 🚀 About Me  
-🔹 **Aspiring Ethical Hacker** | Obsessed with breaking (and securing) systems  
-🔹 **Developer & Security Enthusiast** | Code in **Java, PHP, Python,JavaScript**  
-🔹 **Network & Web Security** | Hands-on with **Wireshark, TCPEye, Kali Linux**  
-🔹 **Containerized Environments** | **Docker, MySQL, Linux**  
-🔹 **Always Learning** | Hacking challenges, CTFs, and deep-diving into vulnerabilities.
+🔹 **Aspiring Ethical Hacker** | Obsessed with breaking systems and secure them
+🔹 **Developer & Security Enthusiast** | Code in **Java, PHP, Python**  
+🔹 **Network & Web Security** | Hands-on with **Wireshark, Burp Suite, Kali Linux**  
+🔹 **Containerized Environments** | **Docker, MySQL, Linux , VMWare**  
+🔹 **Always Learning** | Hacking challenges, CTFs, and deep-diving into vulnerabilities  
 
 ---
 
-### ⚡ Various Skills
+### ⚡ Various Skills  
 <details>
   <summary>🛠️ Programming & Scripting</summary>
   
@@ -36,6 +36,7 @@
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
   ![TCPEye](https://img.shields.io/badge/TCPEye-9B8B26?style=for-the-badge&logo=generic&logoColor=white)  
   ![Telnet](https://img.shields.io/badge/Telnet-2A4B8A?style=for-the-badge&logo=generic&logoColor=white)  
+  ![Metasploit](https://img.shields.io/badge/Metasploit-1B6F64?style=for-the-badge&logo=metasploit&logoColor=white)  
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
 </details>
 
@@ -50,13 +51,14 @@
 ---
 
 ### 📊 GitHub Stats  
+🔥 *Because stats matter, right?*  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winashr&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winashr&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 🏴‍☠️ Projects & Cybersecurity Contributions  
-🚧 **Work in Progress...** *(Stay tuned for some security tools, exploits & automation scripts !)*  
+🚧 **Work in Progress...** *(Stay tuned for some badass security tools, exploits & automation scripts!)*  
 💣 **Upcoming:** Custom **Pentesting Toolkits**, **CTF Writeups**, and **Exploit PoCs**  
 
 ---
