@@ -29,7 +29,7 @@
 ---
 
 ### 🛠️ Projects & Contributions
-🚧 **Work in Progress...** Stay tuned for upcoming pentesting tools and security projects!
+🚧 **Work in Progress...** Stay tuned for upcoming pentesting tools, security projects and a lot of projects !
 
 ---
 
