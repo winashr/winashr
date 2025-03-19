@@ -32,7 +32,7 @@
 
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
   ![TCPEye](https://img.shields.io/badge/TCPEye-9B8B26?style=for-the-badge&logo=generic&logoColor=white)  
-  ![Telnet](https://img.shields.io/badge/Telnet-2A4B8A?style=for-the-badge&logo=generic&logoColor=white)  
+  ![Nmap](https://img.shields.io/badge/Nmap-2A4B8A?style=for-the-badge&logo=nmap&logoColor=white)  
   ![Metasploit](https://img.shields.io/badge/Metasploit-1B6F64?style=for-the-badge&logo=metasploit&logoColor=white)  
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
 </details>
