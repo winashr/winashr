@@ -8,10 +8,11 @@
 
 ### 🚀 About Me  
 🔹 **Aspiring Ethical Hacker** | Obsessed with breaking systems and secure them
-🔹 **Developer & Security Enthusiast** | Code in **Java, PHP, Python**  
 🔹 **Network & Web Security** | Hands-on with **Wireshark, Burp Suite, Kali Linux**  
 🔹 **Containerized Environments** | **Docker, MySQL, Linux , VMWare**  
-🔹 **Always Learning** | Hacking challenges, CTFs, and deep-diving into vulnerabilities  
+🔹 **Always Learning** | Hacking challenges, CTFs, and deep-diving into vulnerabilities 
+🔹 **Developer & Security Enthusiast** | Code in **Java, PHP, Python**  
+
 
 ---
 
