@@ -4,13 +4,11 @@
   <h3>💻 BTS SIO SLAM Student | Passionate about Cybersecurity & Pentesting</h3>
 
   <br>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&pause=1000&color=6B2191&center=true&vCenter=true&width=435&lines=Ashwin%2C+Developer+%26+Future+Pentester;Ashwin%2C+Security+Enthusiast;Ashwin%2C+CTF+Player" alt="Typing SVG" />
   </a>
 
-  <br><br>
-
+  <br>
   <p align="center" style="max-width: 600px;">
     Currently pursuing a <b>BTS SIO</b> (Software Solutions).<br>
     I am strictly focused on the intersection of <b>development</b> and <b>offensive security</b>.
