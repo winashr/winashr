@@ -78,10 +78,7 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=winashr&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
   </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winashr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
-  </p>
+
 
   <br>
   <hr style="width:50%; opacity: 0.3;">
@@ -89,10 +86,6 @@
 
   <h3>🏴‍☠️ Projects & Contributions</h3>
   <p>🚧 <b>Work in Progress...</b> <br><i>(Stay tuned for security tools, exploits & automation scripts!)</i></p>
-  <p>
-    💣 <b>Upcoming:</b> Custom Pentesting Toolkits, CTF Writeups, and Exploit PoCs
-  </p>
-
   <br>
 
   <h3>📡 Connect & Collaborate</h3>
